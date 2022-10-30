@@ -13,3 +13,14 @@ Para fazer esse projeto eu usei django e DRF(django rest framework)
 - perfis/id_do_perfil  => lista um perfil individualmente de acordo com o id
 - users/id_do_user => lista um user individualmente de acordo com o id
 - users/ => lista todos os usuarios 
+
+
+.
+
+Neste projeto eu aprendi 
+
+- Criaçao de Apis com drf
+- django models avançado
+- Criaçao de views com o drf
+- ler documentaçao de tecnologia
+- Persistencia
