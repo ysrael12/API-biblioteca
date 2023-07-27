@@ -1,26 +1,24 @@
-# Portifolio-Django
+# Portfólio Django - API de Livraria Pública
 
-# Api de Livraria publica 
+Este é um projeto de API desenvolvido utilizando Django e Django Rest Framework (DRF).
 
-Para fazer esse projeto eu usei django e DRF(django rest framework)
+## URLs da API
 
-## urls da Api
+- `/livros/`: Lista todos os livros registrados.
+- `/livros/id_do_livro`: Exibe informações de um livro individual de acordo com o seu ID.
+- `/perfis/`: Lista todos os perfis.
+- `/perfis/id_do_perfil`: Exibe informações de um perfil individual de acordo com o seu ID.
+- `/users/id_do_user`: Exibe informações de um usuário individual de acordo com o seu ID.
+- `/users/`: Lista todos os usuários.
 
+Neste projeto, aprendi:
 
-- livros/               => lista todos os livros registrados
-- livros/id_do_livro    => lista um livro individualmente de acordo com o id
-- perfis/         => lista todos os perfis
-- perfis/id_do_perfil  => lista um perfil individualmente de acordo com o id
-- users/id_do_user => lista um user individualmente de acordo com o id
-- users/ => lista todos os usuarios 
+- Criação de APIs com Django Rest Framework (DRF).
+- Utilização avançada de modelos do Django.
+- Criação de views utilizando o DRF.
+- Leitura e interpretação de documentação técnica.
+- Persistência de dados em banco de dados.
 
+---
 
-.
-
-Neste projeto eu aprendi 
-
-- Criaçao de Apis com drf
-- django models avançado
-- Criaçao de views com o drf
-- ler documentaçao de tecnologia
-- Persistencia
+Este projeto foi uma oportunidade de aplicar os conhecimentos adquiridos em Django e DRF para criar uma API de uma livraria pública. Com a conclusão deste projeto, estou mais preparado(a) para desenvolver aplicações web complexas e lidar com desafios no desenvolvimento de sistemas utilizando Django e DRF.
